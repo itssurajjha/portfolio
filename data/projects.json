@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Sales Dashboard 2024",
+    "description": "Excel dashboard showing YoY insights, KPIs, and trends.",
+    "tags": ["Excel", "VBA", "Dashboard"],
+    "thumbnail": "https://raw.githubusercontent.com/itssurajjha/portfolio/main/assets/sales_dashboard.png",
+    "github_url": "https://github.com/itssurajjha/sales-dashboard",
+    "live_url": "https://app.powerbi.com/view?12345"
+  },
+  {
+    "id": 2,
+    "title": "Python ML Forecasting",
+    "description": "Stock market LSTM forecasting with FastAPI backend.",
+    "tags": ["Python", "Machine Learning", "LSTM"],
+    "thumbnail": "https://raw.githubusercontent.com/itssurajjha/portfolio/main/assets/ml_forecasting.png",
+    "github_url": "https://github.com/itssurajjha/ml-forecasting",
+    "live_url": ""
+  }
+]
