@@ -17,7 +17,7 @@ import Head from "next/head";
 
 /* ----------------- Backend config ----------------- */
 // You can replace this with process.env.NEXT_PUBLIC_BACKEND_URL in production
-const BACKEND_BASE = "http://127.0.0.1:8000";
+const BACKEND_BASE = "https://backend-yjgk.onrender.com";
 
 /* ----------------- Skill logos (public/dashboards) ----------------- */
 const skillLogos = {
@@ -740,3 +740,4 @@ export default function Home() {
     </>
   );
 }
+
